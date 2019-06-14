@@ -11,5 +11,5 @@
 [Densenet121_BCE(14 classes), Densenet121_FocalLoss(14 classes), InceptionV3_BCE (14 classes), InceptionV3_FocalLoss(14 classes)]
 
 
-
+### RandomForestClassifier parameters
 RFC #1 params:  n_estimators=15, max_depth = 10, min_samples_leaf=510, max_features = 50
