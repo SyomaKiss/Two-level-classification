@@ -5,7 +5,7 @@
   
   "labels_2ndlayer.csv" :labels for 'train_2ndlayer.csv', the same as initial labels
   
-  "test_1stlayer_avgEnsemble_output.csv" : output of first layer models on test set, predictions of each model are averaged between 5 fold                                            models
+  "test_1stlayer_avgEnsemble_output.csv" :output of first layer models on test set, predictions of each model are averaged between 5 fold                                            models
 
 ### Output files structure
 [Densenet121_BCE(14 classes), Densenet121_FocalLoss(14 classes), InceptionV3_BCE (14 classes), InceptionV3_FocalLoss(14 classes)]
